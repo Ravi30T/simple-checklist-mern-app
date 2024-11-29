@@ -73,8 +73,9 @@ This project is a Simple Checklist App, developed using the MERN stack (MongoDB,
         ...
     }
 
-Environment Variables
-    Create a .env file in the root directory and configure the following:
+Environment Variables:
+
+  Create a .env file in the root directory and configure the following:
 
     DB_USER=<Your MongoDB Username>
     DB_PASSWORD=<Your MongoDB Password>
@@ -83,6 +84,7 @@ Environment Variables
     PORT=<Your Server Port>
 
 Frontend Overview:
+
     Technologies Used:
         React.js
         React Hooks (useState, useEffect)
@@ -123,6 +125,7 @@ Setup and Installation:
 
 
 Usage:
+
     1. Open the application in your browser at http://localhost:<PORT> (default is 3000 for React frontend).
     
     2. Use the interface to:
