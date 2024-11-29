@@ -1,0 +1,8 @@
+{   
+    "solicitorName": "Ravi",
+    "solicitorEmail": "ravi@gmail.com",
+    "loanAmount": 59500,
+    "purchasePrice": 100000,
+    "isValuationFeePaid": true,
+    "isUkResident": true
+}
